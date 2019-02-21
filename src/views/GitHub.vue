@@ -24,7 +24,6 @@
                     'Commits': {data: USER_STORIES, component: xcircle, headers: HEADERS, title: 'Commits in Tasks'},
                     'Contribution': {data: PROCESSES, component: xhbar, title: 'Contributions', headers: null},
                     'Process': {data: PROCESSES, component: xline, title: 'User Stories', headers: null},
-                    'Burn Down Chart': {data: GRADIENT, component: SparkLine, title: 'Burn Down Chart', headers: null},
                 }
             }
         }
